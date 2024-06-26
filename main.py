@@ -1,3 +1,7 @@
+#
+# BY - Fixuty
+#
+
 import tkinter as tk
 from tkinter import colorchooser
 from tkfontchooser import askfont
