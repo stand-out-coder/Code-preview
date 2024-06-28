@@ -7,16 +7,20 @@
 ***Code-preview*** - это программа с простым интерфейсом, в которой вы можете писать код и редактировать его стиль (цвет, шрифт и атрибуты).
 Все очень просто! Сначала вы выделяете текст, к которому хотите применить стиль, затем нужно нажать на кнопку Choose Font/Choose Color, выбрать нужный стиль и применить его, нажав на кнопку OK.
 
-> (К сожалению, сейчас вам придется сделать скриншот кода самостоятельно....)
+> Сменить тему изи сделать скриншот кода можно сверку в меню!
 
 **Выбор цвета:**
 
-![image1](https://github.com/stand-out-coder/Code-preview/assets/126950334/0a5ee92f-8af4-4933-9c73-96b491ecedf2)
+![image1](https://github.com/stand-out-coder/Code-preview/assets/126950334/3f724b59-8624-408c-b089-b88ead630057)
 
 **Выбор шрифта:**
 
-![image2](https://github.com/stand-out-coder/Code-preview/assets/126950334/1c5839a1-d5e8-42a1-abc7-dd59e613ab03)
+![image2](https://github.com/stand-out-coder/Code-preview/assets/126950334/8b0a0e0e-17c1-4161-9a4e-5f7407f7a252)
 
 **Сам интерфейс программы:**
 
-![image3](https://github.com/stand-out-coder/Code-preview/assets/126950334/317c5d5e-d66d-4e54-8e36-1b8375d1c18a)
+![image3](https://github.com/stand-out-coder/Code-preview/assets/126950334/9cedd463-e01a-44ae-8e4a-be21dfefbb20)
+
+**Темная тема:**
+
+![image4](https://github.com/stand-out-coder/Code-preview/assets/126950334/6db4d57c-4a83-4d4a-9ae7-cf7f221c47b7)
