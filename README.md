@@ -23,4 +23,4 @@
 
 **Темная тема:**
 
-![image4](https://github.com/stand-out-coder/Code-preview/assets/126950334/6db4d57c-4a83-4d4a-9ae7-cf7f221c47b7)
+![image4](https://github.com/stand-out-coder/Code-preview/assets/126950334/e0843a91-a51f-4bea-88ea-76a476cfe71c)
